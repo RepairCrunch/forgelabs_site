@@ -1,0 +1,4 @@
+baseURL = 'http://www.forgelabs.uk'
+languageCode = 'en-us'
+title = 'Forge Labs Ltd'
+theme = "ananke"
